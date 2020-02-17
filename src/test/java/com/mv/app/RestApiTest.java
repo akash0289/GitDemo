@@ -12,7 +12,7 @@ public class RestApiTest {
 		System.out.println("postJira2");
 		System.out.println("postJira3");
 		System.out.println("postJira4");
-		System.out.println("postJira5");
+		
 	}
 		
 	
@@ -20,5 +20,13 @@ public class RestApiTest {
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTwitter");
+		System.out.println("deleteTwitter2");
+	}
+	
+	@Test 
+	public void addTwitter()
+	{
+		System.out.println("addTwitter");
 	}
 }
+
