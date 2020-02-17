@@ -19,11 +19,19 @@ public class SeleniumTest {
 		
 	}
 	
+
 	@Test
 	public void elementsforUI() 
 	{
 		System.out.println("elementsforUI");
 		System.out.println("elementsforUI2");
+		
+	}
+	@Test
+	public void elementsforUI1() 
+	{
+		System.out.println("elementsforUI3");
+		System.out.println("elementsforUI4");
 		
 	}
 }
